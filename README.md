@@ -1,4 +1,4 @@
-# BitMEXSheets
+# BitMEX Functions for Google Sheets
 
 Various BitMEX Utility functions for Google Sheets
 
